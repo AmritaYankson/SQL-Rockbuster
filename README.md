@@ -41,4 +41,6 @@ Our analysis aims to answer important questions, including:
 * Tableau: For data visualization.
 * PostgreSQL: For database management.
 
+[Tableau Visualization](https://public.tableau.com/views/genres_17047908683590/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
 

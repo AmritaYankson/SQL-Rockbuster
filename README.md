@@ -2,15 +2,18 @@
 ----------------------------------------------------------
 
 ### Overview
-Rockbuster Stealth LLC is evolving into an online video rental service, countering the rise of streaming services like Netflix and Amazon Prime. This project supports the Business Intelligence team in strategizing this shift.
+
+#### Rockbuster Stealth LLC is evolving into an online video rental service, countering the rise of streaming services like Netflix and Amazon Prime. This project supports the Business Intelligence team in strategizing this shift.
 ----------------------------------------------------------
 
 ### Objective
-The aim is to analyze Rockbuster's database to inform the launch of the online service. We'll focus on customer data and rental trends to provide strategic insights.
+
+#### The aim is to analyze Rockbuster's database to inform the launch of the online service. We'll focus on customer data and rental trends to provide strategic insights.
 ----------------------------------------------------------
 
 ### Data Analysis
-Our analysis involves a detailed examination of Rockbuster's dataset, which includes film inventory, customer information, and payment history, using PostgreSQL.
+
+#### Our analysis involves a detailed examination of Rockbuster's dataset, which includes film inventory, customer information, and payment history, using PostgreSQL.
 ----------------------------------------------------------
 
 ### Data Set Composition
@@ -30,7 +33,8 @@ Our analysis aims to answer important questions, including:
 ----------------------------------------------------------
 
 ### Methodology
-Using SQL and a relational database management system, we'll analyze the data focusing on customer behavior and rental trends.
+
+#### Using SQL and a relational database management system, we'll analyze the data focusing on customer behavior and rental trends.
 ----------------------------------------------------------
 
 ### Tools
